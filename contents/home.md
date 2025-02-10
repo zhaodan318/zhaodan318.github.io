@@ -8,8 +8,8 @@ She is currently pursuing a Master's Degree in Natural Geography, at the School 
 zdan318@163.com.
 
 #### Education
-2022.9–2025.7 Nanjing Normal University, Master of Natural Geography\
-2025.9–Present Sun Yat-sen University, PhD in Geology
+2022.9–Present Nanjing Normal University, Master of Natural Geography\
+2018.9–2022.7 Liaocheng University, Bachelor of Geographic Science
 
 #### Research Interests
 Modern Glaciers and Global Change, Glacier Landform Evolution and Environment.
