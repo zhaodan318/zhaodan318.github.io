@@ -1,13 +1,13 @@
-- National Scholarship of Graduate Student, 2024.
+- National Scholarship, 2024
 
-- First-prize Scholarship of CUMT, 2024.
+- First-prize Scholarship of Nanjing Normal University, 2023 and 2022
 
-- First-prize Scholarship of CUMT, 2023.
+- Selected as an Outstanding Graduate Student of Nanjing Normal University, 2024 and 2023
 
-- Freshman Scholarship of CUMT, 2022.
+- National Encouragement Scholarship, 2020 and 2019
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Talents Scholarship of Liaocheng University, 2020
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- First-prize Scholarship of Liaocheng University, 2020 and 2019
 
-- First-prize Scholarship of CUMT, 2019.
+- Selected as an Outstanding Student of Liaocheng University, 2020 and 2019

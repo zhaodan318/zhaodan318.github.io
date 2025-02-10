@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![zhaodan318](https://img.shields.io/badge/zhaodan318-github-blue?logo=github)](https://github.com/zhaodan318)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Master's Degree in Natural Geography, at the School of Geographic Sciences, Nanjing Normal University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+zdan318@163.com.
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2022.9–2025.7 Nanjing Normal University, Master of Natural Geography\
+2025.9–Present Sun Yat-sen University, PhD in Geology
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Modern Glaciers and Global Change, Glacier Landform Evolution and Environment.
 
