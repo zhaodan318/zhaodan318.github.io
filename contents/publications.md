@@ -2,7 +2,7 @@
 
 
 
-- <strong>Zhao, D.</strong>, Zhang, Z.*, Li, Y., Zhang, H., Chen, L., Shang, Z., Fu, P. Cosmogenic nuclide inheritance in modern moraines: A case study from the Hailuogou Glacier, southeastern Tibetan Plateau. Acta Geologica Sinica-English Ediyion, 2025,99(5):1455-1464. (Under submission)
+- <strong>Zhao, D.</strong>, Zhang, Z.*, Li, Y., Zhang, H., Chen, L., Shang, Z., Fu, P. Cosmogenic nuclide inheritance in modern moraines: A case study from the Hailuogou Glacier, southeastern Tibetan Plateau. Acta Geologica Sinica-English Ediyion, 2025,99(5):1455-1464.
 
 - <strong>Zhao, D.</strong>, Zhang, Z.*, Chang, Z., He, L., Wang, J. Analysis of changing characteristics of sunshine duration in Qiannan Bouyei and Miao Autonomous Prefecture from 1961 to 2015 [J]. Journal of Earth Environment, 2025, 16(06):712-725. (In chinese)
 
