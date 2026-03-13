@@ -1,8 +1,9 @@
 - Zhang, Z.*, <strong>Zhao, D.</strong>, Zheng, C., Wang, J., Zheng, J., Cui, H., Zhao, Z., Kong, X., Xu, X., Chang, Z., Li, Y. Quaternary glacial history of the Paleo-Daocheng ice cap (southeast Tibetan Plateau) reconstructed from in situ cosmogenic 10Be ages. Palaeogeography, Palaeoclimatology, Palaeoecology, 663, 112782. (I am a co-first author)
 
+
+
+- <strong>Zhao, D.</strong>, Zhang, Z.*, Li, Y., Zhang, H., Chen, L., Shang, Z., Fu, P. Cosmogenic nuclide inheritance in modern moraines: A case study from the Hailuogou Glacier, southeastern Tibetan Plateau. Acta Geologica Sinica-English Ediyion, 2025,99(5):1455-1464. (Under submission)
+
+- <strong>Zhao, D.</strong>, Zhang, Z.*, Chang, Z., He, L., Wang, J. Analysis of changing characteristics of sunshine duration in Qiannan Bouyei and Miao Autonomous Prefecture from 1961 to 2015 [J]. Journal of Earth Environment, 2025, 16(06):712-725. (In chinese)
+
 - <strong>Zhao, D.</strong>, Zhang, Z., Zhang, Q*. Remote sensing monitoring of Hailuogou Glacier change from 1974 to 2020 [J]. Journal of Glaciology and Geocryology, 2023, 45: 1276-1287. (In chinese)
-
-- <strong>Zhao, D.</strong>, Zhang, Z.*, Li, Y., Zhang, H., Chen, L., Shang, Z., Fu, P. Cosmogenic nuclide inheritance in modern moraines: A case study from the Hailuogou Glacier, southeastern Tibetan Plateau. Acta Geologica Sinica. (Under submission)
-
-- <strong>Zhao, D.</strong>, Zhang, Z.*, Chang, Z., He, Liang., Wang, J. Analysis of variation characteristics of sunshine duration in Qiannan Buyi and Miao Autonomous Prefecture from 1961 to 2015 [J]. Journal of Earth Environment. (In chinese, accepted for publication)
-
